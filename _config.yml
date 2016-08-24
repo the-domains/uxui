@@ -1,4 +1,3 @@
-layout_spectrum: 0.35872852616012096
 typography_spectrum: 0.7882106557954103
 color:
   brandStrength: 0.4890730425249785
@@ -11,4 +10,6 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.35872852616012096
 name: UXUI
+title: Better Mousetraps.
