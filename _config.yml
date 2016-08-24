@@ -6,9 +6,9 @@ color:
   saturation: 0.39562881411984563
   rhythmicContrast: 0.19543392932973802
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: UXUI
