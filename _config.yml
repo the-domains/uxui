@@ -1,0 +1,14 @@
+layout_spectrum: 0.35872852616012096
+typography_spectrum: 0.7882106557954103
+color:
+  brandStrength: 0.4890730425249785
+  lightness: 0.958699515555054
+  saturation: 0.39562881411984563
+  rhythmicContrast: 0.19543392932973802
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: UXUI
